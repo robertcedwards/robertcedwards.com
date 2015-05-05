@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Robert C Edwards
+description: A trail of my trials and tribulations
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://robertcedwards.github.io/robertcedwards.com
 baseurl: "http://robertcedwards.github.io/robertcedwards.com"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
