@@ -3,6 +3,10 @@ layout: post
 title:  "Simple Cart JS with Amazon Cart API"
 date:   2015-05-06
 ---
+The beginnings of building a Simple Cart powered Amazon cart using Add to Cart API
+
+
+
 
 ```
 <form method="GET" action="http://www.amazon.com/gp/aws/cart/add.html">
