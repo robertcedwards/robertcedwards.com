@@ -5,6 +5,9 @@ date:   2015-05-06
 ---
 The beginnings of building a Simple Cart powered Amazon cart using Add to Cart API
 
+The general idea is to add items from the site to a cart. Those items are found on Amazon but are listed here in a nice interface with search and filtering. The items are then add to an Amazon cart and the user is directed to confirm those product being added to the cart on Amazon.
+For our first attempt we used Simplecart JS, but moving forward a custom Angular based solution will be used to handle the cart plus the search and filtering.
+
 <hr/>
 
 
