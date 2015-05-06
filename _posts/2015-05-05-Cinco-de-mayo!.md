@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Spark + MiniBLE + Mixpanel = Physical Analytics"
-date:   2015-05-04
+title:  "Taco Tuesday + Cinco de Mayo = Twilio Drag and Drop interface? Ok!"
+date:   2015-05-05
 ---
 A drag and drop interface for texting, just a prototype/work in progress
 
