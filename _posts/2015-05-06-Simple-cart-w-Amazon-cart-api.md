@@ -9,6 +9,9 @@ The general idea is to add items from the site to a cart. Those items are found 
 For our first attempt we used Simplecart JS, but moving forward a custom Angular based solution will be used to handle the cart plus the search and filtering.
 
 <hr/>
+Update:
+I found a few node.js libraries that use the Amazon AWS Product API.
+I was also able to find an example of a simple Angular.js cart to use for my purposes.
 
 
 ```
