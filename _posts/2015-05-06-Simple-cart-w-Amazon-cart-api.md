@@ -13,6 +13,11 @@ Update:
 I found a few node.js libraries that use the Amazon AWS Product API.
 I was also able to find an example of a simple Angular.js cart to use for my purposes.
 
+https://affiliate-program.amazon.com/gp/associates/help/t1/a10
+https://affiliate-program.amazon.com/gp/advertising/api/detail/main.html
+http://mrbool.com/angularjs-creating-a-shopping-cart-application/32183
+https://github.com/Stamplay/stamplay-foodme
+
 
 ```
 <form method="GET" action="http://www.amazon.com/gp/aws/cart/add.html">
