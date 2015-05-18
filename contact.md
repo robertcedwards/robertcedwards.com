@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Contact Robert C Edwards
 ---
 
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
-    <p>If you have questions about the theme feel free to me</p>
   </div>
   <form action="http://formspree.io/contactme@coactlab.com">
     <label for="name">Name</label>    
