@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Ultra Light Backpacking Stoves"
+title:  "Ultra Light Backpacking & Survival"
 date:   2015-07-06
 ---
+I've been recently obsessed with hiking, adventuring, prepping, and all things related to getting ready; whether that be getting geared up for hiking the JMT or preparing for the zombie apocolypse.
+It was 
 ##Ultra Light Stoves
 <a href="http://www.amazon.com/gp/product/B00BVOMDS6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BVOMDS6&linkCode=as2&tag=nutrio-20&linkId=KBNOOSGXHK46WPSI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BVOMDS6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nutrio-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=nutrio-20&l=as2&o=1&a=B00BVOMDS6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -11,6 +13,8 @@ date:   2015-07-06
 <a href="http://www.amazon.com/gp/product/B00CGTWYIY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CGTWYIY&linkCode=as2&tag=nutrio-20&linkId=RQ55VGDQBWA2SNL4"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00CGTWYIY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nutrio-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=nutrio-20&l=as2&o=1&a=B00CGTWYIY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.amazon.com/gp/product/B008NOYQ6E/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B008NOYQ6E&linkCode=as2&tag=nutrio-20&linkId=VH6FIM6KX4F2A4E5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008NOYQ6E&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nutrio-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=nutrio-20&l=as2&o=1&a=B008NOYQ6E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.amazon.com/gp/product/B001E7S5BO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001E7S5BO&linkCode=as2&tag=nutrio-20&linkId=VQWZJUCEMYCF2ONP"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001E7S5BO&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nutrio-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=nutrio-20&l=as2&o=1&a=B001E7S5BO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B00J1BV01C/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00J1BV01C&linkCode=as2&tag=nutrio-20&linkId=BFZJNBGSGPQ3BLTC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00J1BV01C&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nutrio-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=nutrio-20&l=as2&o=1&a=B00J1BV01C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ##Firestarting
 
 <a href="http://www.amazon.com/gp/product/B0010O748Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0010O748Q&linkCode=as2&tag=nutrio-20&linkId=KZN6JKGC7LN6XSXJ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0010O748Q&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nutrio-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=nutrio-20&l=as2&o=1&a=B0010O748Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
