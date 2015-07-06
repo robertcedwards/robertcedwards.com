@@ -4,7 +4,8 @@ title:  "Ultra Light Backpacking & Survival"
 date:   2015-07-06
 ---
 I've been recently obsessed with hiking, adventuring, prepping, and all things related to getting ready; whether that be getting geared up for hiking the JMT or preparing for the zombie apocolypse.
-It was 
+I started out being inspired by a few films on Netflix, a handful of Youtubers, and a book by Neil Straus called <a href="http://www.amazon.com/gp/product/0060898771/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0060898771&linkCode=as2&tag=coactlabcom-20&linkId=QPY7MTWOF4VSMEI4"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0060898771&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=coactlabcom-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=coactlabcom-20&l=as2&o=1&a=0060898771" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ##Ultra Light Stoves
 <a href="http://www.amazon.com/gp/product/B00BVOMDS6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BVOMDS6&linkCode=as2&tag=nutrio-20&linkId=KBNOOSGXHK46WPSI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BVOMDS6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nutrio-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=nutrio-20&l=as2&o=1&a=B00BVOMDS6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
