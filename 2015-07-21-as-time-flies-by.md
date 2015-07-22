@@ -1,6 +1,7 @@
 I love the dicotomy of these two recent articles that portray the perecption and abstraction of time.
 One article speaks about how our perception of time is formed through a slice of life being divided into furthering smaller slices due to our first year of life being some sort of numeric marker of time delinineated through smaller fractions of time being created as we pass through life.
 
+http://abstrusegoose.com/51
 https://blog.adafruit.com/2015/06/10/new-tutorial-buzzing-mindfulness-bracelet-with-gemma-wearablewednesday/
 
 The other represents our life through a series of dots that are equally spaced and of equal size. These show that our life is mostly lived within the Adult and Senior years of our life as the number of years spent are equally distributed.
