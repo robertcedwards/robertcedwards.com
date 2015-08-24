@@ -7,3 +7,8 @@ date:   2015-08-23
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 This is inspired by the great hack using Python and Magicforms that was posted on Medium.
 https://www.npmjs.com/package/arp-listener
+
+Added a IFTTT example:
+https://ifttt.com/recipes/318591-amazon-dash-to-maker
+
+Along with Twilio, Mixpanel, Giphy, and a debug console example.
