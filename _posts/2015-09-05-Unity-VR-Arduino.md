@@ -5,17 +5,18 @@ date:   2015-09-05
 ---
 We've been looking into solutions in order to get custom inputs and outputs working inside of Unity.
 There have been some early success using C# and javascript to Native with:
-```
-using System.IO.Ports;
 
+```C#
+using System.IO.Ports;
 ```
+
 There are also plugins in the Asset Store
 https://www.assetstore.unity3d.com/en/#!/search/arduino
 
 Unidunio is one of the more mature projects but it seems to not be upadted for Unity 5 quite yet.
 https://www.assetstore.unity3d.com/en/#!/content/6804
 
-```
+```C#
 public static SerialPort sp = new SerialPort("COM9", 9600);
 ```
 
