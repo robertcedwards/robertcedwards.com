@@ -35,7 +35,7 @@ For our purposes we'll need to use a Processing implenlation so we've used it be
 Here is a scratch built Processing + Arduino solution written in C#:
 http://www.sundh.com/blog/2012/05/unity-processing-arduino/
 
-![Sundh example in processing](https://imgflip.com/gif/r1kxr)
+![Sundh example in processing](https://i.imgflip.com/gif/r1kxr)
 
 
 This is a great way to understand how OSC, Processing, and Arduino are interacting with a Sender and Receiver script running to serve the data up to Unity via OSC.
