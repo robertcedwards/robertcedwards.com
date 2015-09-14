@@ -15,6 +15,10 @@ https://www.assetstore.unity3d.com/en/#!/search/arduino
 Unidunio is one of the more mature projects but it seems to not be upadted for Unity 5 quite yet.
 https://www.assetstore.unity3d.com/en/#!/content/6804
 
+```
+public static SerialPort sp = new SerialPort("COM9", 9600);
+```
+
 With Unity 5.2 our examples and test scene that included various ways of interacting with the Arduino all started to fail.
 Without recourse we needed to pivot in order to continue on and find a more stable solution.
 
