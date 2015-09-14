@@ -20,6 +20,9 @@ https://www.assetstore.unity3d.com/en/#!/content/6804
 public static SerialPort sp = new SerialPort("COM9", 9600);
 ```
 
+One of the early articles:
+http://www.mono-project.com/archived/howtosystemioports/
+
 With Unity 5.2 our examples and test scene that included various ways of interacting with the Arduino all started to fail.
 Without recourse we needed to pivot in order to continue on and find a more stable solution.
 
@@ -29,9 +32,25 @@ https://en.wikipedia.org/wiki/Open_Sound_Control
 http://opensoundcontrol.org/introduction-osc
 
 For our purposes we'll need to use a Processing implenlation so we've used it before and integrates well with the Arduino using Firmata.
+Here is a scratch built Processing + Arduino solution written in C#:
+http://www.sundh.com/blog/2012/05/unity-processing-arduino/
 
-One of the early articles:
-http://www.mono-project.com/archived/howtosystemioports/
+![Sundh example in processing](https://imgflip.com/gif/r1kxr)
+
+
+This is a great way to understand how OSC, Processing, and Arduino are interacting with a Sender and Receiver script running to serve the data up to Unity via OSC.
+We're looking for a more advanced solution that allows us to visually management the scripts controlling the interactions bewteen the various elements with Unity. 
+
+
+
+There are a few projects in the Asset Store:
+https://www.assetstore.unity3d.com/en/#!/search/osc
+
+
+UniOSC is the one we'll be focusing on.
+https://www.assetstore.unity3d.com/en/#!/content/17658
+
+
 
 {% gist 5555251 gist.md %}
 
