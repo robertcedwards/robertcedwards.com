@@ -20,7 +20,7 @@ We're going to concentrate on the RTL-SDR, and specifically the Nooelec NESDR
 (http://www.nooelec.com/store/sdr/sdr-receivers/nesdr-mini-2-plus.html)
 
 !http://www.nooelec.com/store/media/catalog/product/cache/1/image/458x/040ec09b1e35df139433887a97daa66f/m/i/mini_2_2.jpg
-
+http://www.hamradioscience.com/the-three-best-low-cost-sdr-radios-you-can-buy-today/2/
 
 
 
