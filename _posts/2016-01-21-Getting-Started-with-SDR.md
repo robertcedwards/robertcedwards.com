@@ -24,7 +24,7 @@ date:   2016-01-21
 
 
 There are a number of inexpensive SDR([Software Defined Radio](https://en.wikipedia.org/wiki/Software-defined_radio)) modules out there that mostly started their lineage as cheap TV tuners for European and US digital HD signals on the computer. Hackers invariable found their way into the firmware and started messing about creating a power digital tuner. The manfacturers seem to have caught on and the in spirit of the community, updated firmware, upgraded chipset, and made a more robust, hackable device.
-There are a number of projects that more fully encompass a broadband SDR with many more features such as the [HackRF](https://greatscottgadgets.com).
+There are a number of projects that more fully encompass a broadband SDR with many more features such as the [HackRF](https://greatscottgadgets.com) and [Airspy](http://airspy.us/).
 We're going to concentrate on the RTL-SDR, and specifically the Nooelec NESDR
 (http://www.nooelec.com/store/sdr/sdr-receivers/nesdr-mini-2-plus.html)
 
