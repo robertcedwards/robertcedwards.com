@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting Started with SDR"
+title:  "Living Window"
 date:   2016-08-25
 ---
 
