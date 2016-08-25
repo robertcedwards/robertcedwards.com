@@ -3,11 +3,6 @@ layout: post
 title:  "Living Window"
 date:   2016-08-25
 ---
-
-#Living Window
-
-##Getting started with a project is usually the tough part of an idea but the most important by far. Sometimes it can take months or even…
-
 ##Living Window
 
 Getting started with a project is usually the tough part of an idea but the most important by far. Sometimes it can take months or even years for the spark of an idea to mature into something tangible. Other times it can magically take off from our minds and somehow manifest itself before our very eyes.
