@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/robertcedwards
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://robertcedwards.com
+  * I am robertcedwards (https://keybase.io/robertcedwards) on keybase.
+  * I have a public key ASBvPiFlwnag-j-0MgmtzDYbprFgWI7cs7xZB4FVQETxFgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206f3e2165c276a0fa3fb43209adcc361ba6b160588edcb3bc590781554044f1160a",
+      "host": "keybase.io",
+      "kid": "01206f3e2165c276a0fa3fb43209adcc361ba6b160588edcb3bc590781554044f1160a",
+      "uid": "2bd8eaad359b93fdaf5ffe0cebaa0919",
+      "username": "robertcedwards"
+    },
+    "merkle_root": {
+      "ctime": 1520457361,
+      "hash": "6c474d4d6984b28ee03c5f6a48ef1f6ba7a97b391c2ff1053b351c22721009b59ecd15f201a267cc419ba8ba3090b6872394570f9fd5b57b3ecb71b64fcda952",
+      "hash_meta": "41c3904298e8abbb983db572952fd47af291d389f46eafa8bbae2e326ccd9116",
+      "seqno": 2198747
+    },
+    "service": {
+      "hostname": "robertcedwards.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1520457383,
+  "expire_in": 504576000,
+  "prev": "31415eae82a1e5ffc188115d900686aa908f6f46dfbd691debd9088b19fb2a15",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbz4hZcJ2oPo/tDIJrcw2G6axYFiO3LO8WQeBVUBE8RYKp3BheWxvYWTFA1B7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNmYzZTIxNjVjMjc2YTBmYTNmYjQzMjA5YWRjYzM2MWJhNmIxNjA1ODhlZGNiM2JjNTkwNzgxNTU0MDQ0ZjExNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNmYzZTIxNjVjMjc2YTBmYTNmYjQzMjA5YWRjYzM2MWJhNmIxNjA1ODhlZGNiM2JjNTkwNzgxNTU0MDQ0ZjExNjBhIiwidWlkIjoiMmJkOGVhYWQzNTliOTNmZGFmNWZmZTBjZWJhYTA5MTkiLCJ1c2VybmFtZSI6InJvYmVydGNlZHdhcmRzIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIwNDU3MzYxLCJoYXNoIjoiNmM0NzRkNGQ2OTg0YjI4ZWUwM2M1ZjZhNDhlZjFmNmJhN2E5N2IzOTFjMmZmMTA1M2IzNTFjMjI3MjEwMDliNTllY2QxNWYyMDFhMjY3Y2M0MTliYThiYTMwOTBiNjg3MjM5NDU3MGY5ZmQ1YjU3YjNlY2I3MWI2NGZjZGE5NTIiLCJoYXNoX21ldGEiOiI0MWMzOTA0Mjk4ZThhYmJiOTgzZGI1NzI5NTJmZDQ3YWYyOTFkMzg5ZjQ2ZWFmYThiYmFlMmUzMjZjY2Q5MTE2Iiwic2Vxbm8iOjIxOTg3NDd9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicm9iZXJ0Y2Vkd2FyZHMuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDUifSwiY3RpbWUiOjE1MjA0NTczODMsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMzE0MTVlYWU4MmExZTVmZmMxODgxMTVkOTAwNjg2YWE5MDhmNmY0NmRmYmQ2OTFkZWJkOTA4OGIxOWZiMmExNSIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQHO3Wzudda9xuu9z/+vrwOCoPw7N2O8wecW93yQrx2xffzjQ+ysCoTgsC/mQ3I304AIK+yL8sJgQ56g6yrU6dQCoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDmQkR/McR3IEokse7on/ZuYLq8a2pHnWwCocjeWAFZ/aN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/robertcedwards
+
+==================================================================
