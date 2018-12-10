@@ -9,7 +9,7 @@ Having started down the path of understand my genes, my diseases and my need for
 This led me to, as per usual, end up hacking a solution for myself that I hope would expand into something useful for others. :thumbsup:
 
 I started working on a simple static tools using javascript and Mixpanel to make simple buttons with a text field for dosage. The heavy lifting on the analytics side is handled exclusively my Mixpanel and allows me to concentrate on the front-end while still having robust tools for analyzing custom data.
-![Mixpanel Supplement Report Screenshot](./images/mixpanel.jpg)
+![Mixpanel Supplement Report Screenshot](/images/mixpanel.jpg)
 
 The basic page is just a set of buttons with text fields nested inside. When you click on a button the script grabs the name of the button and the number for dosage. It then sends it off to Mixpanel:
 
@@ -17,7 +17,7 @@ The basic page is just a set of buttons with text fields nested inside. When you
 mixpanel.track("Took", {"Supplement": this.text, "Dose": $(this).next('input').val();});
 ```
 
-![Codepen example with buttons, screenshot](./images/gawVLE.jpg)
+![Codepen example with buttons, screenshot](/images/gawVLE.jpg)
 
 
 
