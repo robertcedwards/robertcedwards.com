@@ -9,7 +9,7 @@ Having started down the path of understand my genes, my diseases and my need for
 This led me to, as per usual, end up hacking a solution for myself that I hope would expand into something useful for others. :thumbsup:
 
 I started working on a simple static tools using javascript and Mixpanel to make simple buttons with a text field for dosage. The heavy lifting on the analytics side is handled exclusively my Mixpanel and allows me to concentrate on the front-end while still having robust tools for analyzing custom data.
-![Mixpanel Supplement Report Screenshot](https://www.evernote.com/shard/s78/sh/e04d9407-9993-407a-b190-10b7ce0e7fcc/d255d2346e0e8738513eff0a63e96255/res/59ee71d1-c21f-4303-93d8-0224cbebc677/%23action%3Asegment%2Carb_event%3ATook%2Cbool_op%3Aand%2Cchart_analysis_type%3Alinear%2Cchart_type%3Aline%2Cfrom_date%3A-3%2Cms_checked%3A%28%27Alpha%20GPC%27%3A%21t%2C%27Grapeseed%20Extract%27%3A%21t%2C%27Methyl%20B12%27%3A%21t%2C%27Methyl%20Folate%27%3A%21t%2C%27Neuro%20Optimizer%27%3A%21t%2CL-Theanine%3A%21t%2CNAC%3A%21t%2CP-5-P%3A%21t%2CTaurine%3A%21t%2Cddf%3A%21t%29%2Cms_values%3A%21%28NAC%2C%27Methyl%20Folate%27%2CP-5-P%2C%27Methyl%20B12%27%2CTaurine%2C%27Alpha%20GPC%27%2CL-Theanine%2C%27Grapeseed%20Extract%27%2Cddf%2C%27Neuro%20Optimizer%27%29%2Csegfilter%3A%21%28%28property%3A%28name%3ASupplement%2Csource%3Aproperties%2Ctype%3Astring%29%2Cselected_property_type%3Astring%2Ctype%3Astring%29%29%2Csegment_type%3Astring%2Cto_date%3A0%2Ctype%3Ageneral%2Cunit%3Aday.jpg?resizeSmall&width=550&alpha="Mixpanel Supplement Report")
+![Mixpanel Supplement Report Screenshot](./images/%23action%3Asegment%2Carb_event%3ATook%2Cbool_op%3Aand%2Cchart_analysis_type%3Alinear%2Cchart_type%3Aline%2Cfrom_date%3A-3%2Cms_checked%3A%28%27Alpha%20GPC%27%3A%21t%2C%27Grapeseed%20Extract%27%3A%21t%2C%27Methyl%20B12%27%3A%21t%2C%27Methyl%20Folate%27%3A%21t%2C%27Neuro%20Optimizer%27%3A%21t%2CL-Theanine%3A%21t%2CNAC%3A%21t%2CP-5-P%3A%21t%2CTaurine%3A%21t%2Cddf%3A%21t%29%2Cms_values%3A%21%28NAC%2C%27Methyl%20Folate%27%2CP-5-P%2C%27Methyl%20B12%27%2CTaurine%2C%27Alpha%20GPC%27%2CL-Theanine%2C%27Grapeseed%20Extract%27%2Cddf%2C%27Neuro%20Optimizer%27%29%2Csegfilter%3A%21%28%28property%3A%28name%3ASupplement%2Csource%3Aproperties%2Ctype%3Astring%29%2Cselected_property_type%3Astring%2Ctype%3Astring%29%29%2Csegment_type%3Astring%2Cto_date%3A0%2Ctype%3Ageneral%2Cunit%3Aday.jpg?resizeSmall&width=550&alpha="Mixpanel Supplement Report")
 
 The basic page is just a set of buttons with text fields nested inside. When you click on a button the script grabs the name of the button and the number for dosage. It then sends it off to Mixpanel:
 
@@ -17,7 +17,7 @@ The basic page is just a set of buttons with text fields nested inside. When you
 mixpanel.track("Took", {"Supplement": this.text, "Dose": $(this).next('input').val();});
 ```
 
-![Codepen example with buttons, screenshot](https://www.evernote.com/shard/s78/sh/474e84db-2890-47cc-a7bf-624fea9817c8/fe4a164f7c1e78f31c46e8df9e44a909/res/0c18ee63-2534-47e0-a395-4ae8d68b77ba/gawVLE.jpg?resizeSmall&width=832)
+![Codepen example with buttons, screenshot](./images/gawVLE.jpg)
 
 
 
