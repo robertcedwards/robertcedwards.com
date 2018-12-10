@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Unlocking your Genes"
-date:   2015-07-15
----
-
-It all started with a simple $99 23&me test.
