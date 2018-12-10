@@ -1,13 +1,13 @@
 title: Robert C Edwards
 description: A trail of my trials and tribulations
 
-url: http://robertcedwards.github.io/robertcedwards.com
-baseurl: "http://robertcedwards.github.io/robertcedwards.com"
+url: https://robertcedwards.com
+baseurl: "https://robertcedwards.com"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 paginate: 5
 
 navigation:
