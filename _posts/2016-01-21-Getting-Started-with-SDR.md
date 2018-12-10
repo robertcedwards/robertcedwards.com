@@ -3,9 +3,9 @@ layout: post
 title:  "Getting Started with SDR"
 date:   2016-01-21
 ---
-#Getting Started with SDR
+# Getting Started with SDR
 
-##TL:DR Version
+## TL:DR Version
 
 [Buy Radio](http://www.amazon.com/NooElec-NESDR-Mini-RTL2832-Antenna/dp/B00P2UOU72/ref=sr_1_1?ie=UTF8&qid=1453407219&sr=8-1&keywords=sdr)
 
@@ -15,7 +15,7 @@ date:   2016-01-21
 
 [Download Software - Linux](http://gqrx.dk/download/install-ubuntu)
 
-[Install Drivers if necessary](http://www.rtl-sdr.com/rtl-sdr-quick-start-guide/) 
+[Install Drivers if necessary](http://www.rtl-sdr.com/rtl-sdr-quick-start-guide/)
 
 [Program Stations into radio] (https://radiofreeq.wordpress.com/2015/01/22/survival-channels-for-baofeng-programming-shtf-ham-frs-pmr-gmrs-murs-marine-weather-business/)
 
@@ -30,6 +30,3 @@ We're going to concentrate on the RTL-SDR, and specifically the Nooelec NESDR
 
 !http://www.nooelec.com/store/media/catalog/product/cache/1/image/458x/040ec09b1e35df139433887a97daa66f/m/i/mini_2_2.jpg
 http://www.hamradioscience.com/the-three-best-low-cost-sdr-radios-you-can-buy-today/2/
-
-
-
